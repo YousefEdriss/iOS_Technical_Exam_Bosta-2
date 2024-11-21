@@ -11,7 +11,7 @@ Image Gallery Page:
    - Search bar for filtering albums or images.
    - Grid layout for images with zoom and sharing functionality.
 
-Bonus Points
+Bonus Points:
    - Pinch-to-Zoom: Users can zoom into images.
    - Sharing: Share images via native iOS share options.
 
